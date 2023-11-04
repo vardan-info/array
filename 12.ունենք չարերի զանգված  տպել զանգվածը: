@@ -1,9 +1,5 @@
-public class Main {
-    public static void main(String[] args) {
-        char[] JavaCharArray = {'a', 'b', 'c', 'd', 'e'};
-        for (char c:JavaCharArray) {
-            System.out.println(c);
-        }
-    }
-}
-  
+ char[] array = {'a', 'b', 'c', 'd', 'e'};
+//        for (int i =0; i <array.length;i++) {
+//            System.out.println(array[i]);
+//        }
+
