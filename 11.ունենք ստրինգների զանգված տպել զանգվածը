@@ -1,0 +1,21 @@
+public class Main {
+    public static void main(String[] args) {
+
+        String []array1 = new String[10];
+          array1[0]= "Vazgen";
+          array1[1]= "volvo";
+          array1[2]= "sab";
+          array1[3]= "bmw";
+          array1[4]= "samsung";
+          array1[5]= "iphone";
+          array1[6]="Valod";
+          array1[7]="MERS";
+          array1[8]="Asus";
+          array1[9]="ANI";
+
+          for(int i = 0; i < array1.length; i++){
+             System.out.print(array1[i]+" ");
+
+       }
+    }
+}
